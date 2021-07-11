@@ -24,7 +24,7 @@ def image_loader(image_path):
 
 
 model = SqueezeNetERM()
-model.load_state_dict(torch.load('weigths'))
+model.load_state_dict(torch.load('weights'))
 model.to(device)  
 model.eval()
 # the path of the image
