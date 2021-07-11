@@ -13,7 +13,7 @@ This is a repository for the trained models to detect ERM in OCT B-scans (the be
 
 All models were trained and tested using:
 <ul>
- < li>python 3.7</li>
+  <li>python 3.7</li>
   <li>PyTorch 1.5.0+cu101</li>
   <li>torchvision 0.6.0+cu101</li>
 </ul>
