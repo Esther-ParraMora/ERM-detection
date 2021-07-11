@@ -11,4 +11,4 @@ Trained models to detect ERM in OCT B-scans
 
 All models where trained and tested using PyTorch 1.5.0+cu101
 
-Samples images source: http://theretinagroup.com/epiretinal-membrane/
+Sample images source: http://theretinagroup.com/epiretinal-membrane/
