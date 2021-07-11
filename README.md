@@ -1,7 +1,7 @@
 # Epiretinal Membrane Detection in Optical Coherence Tomography Retinal Images using Deep Learning
 Article link: https://ieeexplore.ieee.org/document/9477630
 
-This is a repository for the trained models to detect ERM in OCT B-scans, the best model for each architecture.
+This is a repository for the trained models to detect ERM in OCT B-scans (the best model for each architecture).
  
 ### Architectures:
 <ul>
